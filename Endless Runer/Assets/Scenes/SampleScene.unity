@@ -1214,12 +1214,8 @@ MonoBehaviour:
   rb: {fileID: 1139358379}
   healthDisplay: {fileID: 1462786781}
   gameOver: {fileID: 315030112}
-  effect: {fileID: 6934397922894455657, guid: d614d7e323886a747928293bfbe48342, type: 3}
-  Xincrement: 2
-  speed: 20
-  maxWidth: 8
-  minWidth: -8
   health: 3
+  moveSpeed: 5
 --- !u!212 &1139358376
 SpriteRenderer:
   m_ObjectHideFlags: 0
